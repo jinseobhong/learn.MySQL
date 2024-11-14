@@ -1,3 +1,4 @@
+use hr;
 -- Remove duplicates with distinct
 -- Please select only the department number.
 select distinct 
