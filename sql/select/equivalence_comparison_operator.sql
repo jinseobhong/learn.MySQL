@@ -1,4 +1,5 @@
 -- Equivalence comparison operator
+-- Returns whether the operation value is true or false.
 -- Same as(true) : =
 -- Different(false) : !=, <>
 
