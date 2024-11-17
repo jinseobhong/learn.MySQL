@@ -1,4 +1,5 @@
 # Case conversion
+- Change the case of letters
 ## upper
 - Convert all alphabets to uppercase
 <pre>
