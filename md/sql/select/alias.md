@@ -1,5 +1,3 @@
-<pre><code>use hr;</code></pre>
-
 # Shortcut(alias) : as 'alias'
 Can implicitly enter spaces after a name and then type aliases
 Spaces can be given when declaring aliases explicitly with the as keyword (when using ")
@@ -8,6 +6,8 @@ Spaces can be given when declaring aliases explicitly with the as keyword (when 
 example :
 <pre>
 <code>
+use hr;
+
 select
 	first_name firstN,
 	last_name lastN,
