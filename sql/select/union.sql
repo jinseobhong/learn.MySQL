@@ -1,4 +1,4 @@
--- UNION 
+-- Union 
 -- Connection between queries(forming a union)
 
 -- Select employees with department number 20
