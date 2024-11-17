@@ -1,3 +1,3 @@
 # Table of Contents
 
-- [Alias](./select/alias.md)
+- [Alias](./alias.md)
