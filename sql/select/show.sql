@@ -1,4 +1,4 @@
--- show
+-- Show
 -- This command is used when you want to view various information, such as a database list or table list.
 
 -- Shows what databases exist
