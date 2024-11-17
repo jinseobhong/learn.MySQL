@@ -18,14 +18,6 @@ from
 where
 	job_id not in('PU_CLERK', 'SH_CLERK', 'ST_CLERK');
 
--- Select employees with salary between 5000 and 8000$
-select
-	*
-from
-	employees
-where
-	salary between 5000 and 8000;
-
 -- Select employees whose salary is not between 5000 and 8000$
 select
 	*
