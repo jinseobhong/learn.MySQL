@@ -1,12 +1,17 @@
-use hr;
+-- select
+-- Selects and returns result values ​​that meet the conditions
 -- select * from table_name;
+
 -- Select entire table data
+use hr;
 select * from employees;
 
 -- Select entire Jobs table data
+use hr;
 select * from jobs;
 
 -- Printing table partial columns(employee_id, first_name, salary)
+use hr;
 select
 	employee_id, 
 	first_name,
