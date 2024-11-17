@@ -6,4 +6,4 @@
 - [Case conversion](./case_conversion.md)
 - [Condition operator](./condition_operator.md)
 - [DESC](./desc.md)
-  [Distinct](./distinct.md)
+- [Distinct](./distinct.md)
