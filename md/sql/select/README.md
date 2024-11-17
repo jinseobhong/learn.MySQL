@@ -11,3 +11,5 @@
 - [In](./in.md)
 - [Is not null](./is_not_null.md)
 - [Is null](./is_null.md)
+- [Like](./like.md)
+- [Not](./not.md)
