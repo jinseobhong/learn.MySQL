@@ -1,4 +1,5 @@
 # Equivalence comparison operator
+- Returns whether the operation value is true or false.
 - Same as(true) : =
 -  Different(false) : !=, <>
 ## Select an employee whose department number is 30 and whose salary is not $3100
