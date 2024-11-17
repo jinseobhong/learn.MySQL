@@ -1,7 +1,8 @@
 -- IS NULL
 -- Select rows that cannot refer to data values
--- Employees without commission
 -- NULL cannot be selected with equlas(=).
+
+-- Employees without commission
 use hr;
 select
 	*
