@@ -6,7 +6,7 @@
 --	Choose the name, last name, monthly salary, and annual salary of all employees
 example :
 	
-use hr;
+use hr
 select
 	first_name firstN,
 	last_name lastN,
