@@ -7,7 +7,6 @@ example :
 <pre>
 <code>
 use hr;
-
 select
 	first_name firstN,
 	last_name lastN,
