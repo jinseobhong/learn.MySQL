@@ -1,3 +1,4 @@
+-- Alias
 use hr;
 /*	Shortcut(alias) : as 'alias'
 	Can implicitly enter spaces after a name and then type aliases
