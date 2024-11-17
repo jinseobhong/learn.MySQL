@@ -10,7 +10,7 @@ where
 	job_id = 'PU_CLERK'
 	or job_id = 'SH_CLERK'
 	or job_id = 'ST_CLERK';
--- in을 사용해서 처리할 경우
+-- When processing using in
 -- Check if in contains one of all the values ​​contained in the parameter
 -- iN(a,b,...) : a or b or ..
 use hr;
