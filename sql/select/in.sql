@@ -1,4 +1,4 @@
--- in
+-- In
 -- Check if in contains one of all the values ​​contained in the parameter
 -- iN(a,b,...) : a or b or ..
 
