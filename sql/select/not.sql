@@ -2,6 +2,7 @@
 -- It is frequently used with BETWEEN, IN, IS NULL, and LIKE.
 
 -- Select employees whose salary is not 3000$
+use hr;
 select
 	*
 from
@@ -11,6 +12,7 @@ where
 
 -- Select people whose job_id are not PU_CLERK, SH_CLERK, or ST_CLERK
 -- Select using NOT IN
+use hr;
 select
 	*
 from
@@ -19,6 +21,7 @@ where
 	job_id not in('PU_CLERK', 'SH_CLERK', 'ST_CLERK');
 
 -- Select employees whose salary is not between 5000 and 8000$
+use hr;
 select
 	*
 from
