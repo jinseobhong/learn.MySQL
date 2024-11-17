@@ -7,3 +7,4 @@
 - [Condition operator](./condition_operator.md)
 - [DESC](./desc.md)
 - [Distinct](./distinct.md)
+- [Equivalence comparison operator](./equivalence_comparison_operator.md)
