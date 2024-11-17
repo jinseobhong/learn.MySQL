@@ -4,7 +4,6 @@
 <pre>
 <code>
 use hr;
-
 select
 	*
 from
