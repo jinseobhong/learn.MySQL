@@ -17,7 +17,6 @@ where
 <pre>
 <code>
 use hr;
-
 select
 	*
 from
