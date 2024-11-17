@@ -8,3 +8,4 @@
 - [DESC](./desc.md)
 - [Distinct](./distinct.md)
 - [Equivalence comparison operator](./equivalence_comparison_operator.md)
+- [In](./in.md)
