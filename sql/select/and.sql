@@ -1,7 +1,7 @@
 -- And
 -- if all conditions are met
-use hr;
 -- Select an employee whose department number (department_id) is 30 and the position (Job_id) is PU_MAN
+use hr;
 select
 	*
 from
@@ -11,6 +11,7 @@ where
 	and job_id = 'PU_MAN';
     
 -- Select employees with department number 50 and position ST_MAN
+use hr;
 select
 	*
 from
