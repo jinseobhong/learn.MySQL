@@ -1,6 +1,7 @@
 -- in
 -- Check if in contains one of all the values ​​contained in the parameter
 -- iN(a,b,...) : a or b or ..
+
 -- When processing with or without using in
 -- Select people with job_Id : PU_CLERK or SH_CLERK or ST_CLERK
 use hr;
