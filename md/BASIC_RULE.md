@@ -30,9 +30,9 @@
             2. OR : If any one of the conditions is satisfied
         2. Condition operator : Large-to-large comparison of values
             1. < : Satisfied when A < B
-            2. > : Satisfied when A > B
+            2. \> : Satisfied when A > B
             3. <= : Satisfied when A <= B
-            4. >= : Satisfied when A >= B
+            4. \>= : Satisfied when A >= B
         3. Equal comparison of values : Verify that the value of the logic is true or false
             1. = : true
             2. !=, <> : false
