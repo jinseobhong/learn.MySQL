@@ -42,4 +42,4 @@ select
 from
     employees
 where
-    department_id = 30
+    department_id = 30;
