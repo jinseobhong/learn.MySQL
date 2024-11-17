@@ -1,4 +1,4 @@
--- not(Logical negation operator)
+-- Not(Logical negation operator)
 -- It is frequently used with BETWEEN, IN, IS NULL, and LIKE.
 
 -- Select employees whose salary is not 3000$
