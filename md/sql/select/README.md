@@ -9,3 +9,5 @@
 - [Distinct](./distinct.md)
 - [Equivalence comparison operator](./equivalence_comparison_operator.md)
 - [In](./in.md)
+- [Is not null](./is_not_null.md)
+- [Is null](./is_null.md)
