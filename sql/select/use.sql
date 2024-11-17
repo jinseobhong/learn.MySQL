@@ -1,3 +1,5 @@
--- use database_name;
--- database you want to use
+-- Use
+-- Use database you want
+
+-- Use database_name;
 use hr;
