@@ -1,5 +1,6 @@
 # Condition operator
 - Comparing numbers
+- For more information, see this, [Baic rule](../BASIC_RULE.md)
 ## Select people with annual salary (salary * 12) over 100000
 <pre>
 <code>
