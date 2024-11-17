@@ -2,6 +2,7 @@
 - Values ​​between A and B
 - between A and B
 - Exception occurs if B is greater than A
+## Select employees with salary between 5000 and 10000$
 <pre>
 <code>
 use hr;
