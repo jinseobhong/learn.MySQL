@@ -1,4 +1,4 @@
--- or
+-- Or
 -- Returns at least one value that is true
 
 -- Select employees with department numbers of 30 or AC_ACCOUNT positions
