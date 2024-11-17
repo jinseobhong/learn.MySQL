@@ -1,4 +1,5 @@
-# Select an employee whose department number (department_id) is 30 and the position (Job_id) is PU_MAN
+# And : If all conditions are met
+## Select an employee whose department number (department_id) is 30 and the position (Job_id) is PU_MAN
 <pre>
 <code>
 use hr;
