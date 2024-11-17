@@ -1,5 +1,6 @@
 -- And
 -- if all conditions are met
+
 -- Select an employee whose department number (department_id) is 30 and the position (Job_id) is PU_MAN
 use hr;
 select
