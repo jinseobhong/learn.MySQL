@@ -1,3 +1,4 @@
+-- Case convension
 -- upper : Convert all alphabets to uppercase
 select
     first_name,
