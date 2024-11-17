@@ -10,6 +10,7 @@ from
 where
 	department_id = 30
 	or job_id = 'AC_ACCOUNT';
+
 -- Select employees whose department number is 80 or whose position is ST_MAN
 use hr;
 select
