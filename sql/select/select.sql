@@ -1,4 +1,4 @@
--- select
+-- Select
 -- Selects and returns result values ​​that meet the conditions
 -- select * from table_name;
 
