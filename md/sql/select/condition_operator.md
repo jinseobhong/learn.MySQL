@@ -50,7 +50,7 @@ where
 	last_name <= 'G';
 </code>
 </pre>
-# Date data can also be compared.
+# Date data can also be compared
 - The further in the future the date is, the larger the number. Tomorrow is greater than today, and today is more valuable than yesterday.
 ## Select people whose hire date (hire_date) is after 2008
 <pre>
