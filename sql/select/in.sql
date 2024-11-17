@@ -1,4 +1,6 @@
 -- in
+-- Check if in contains one of all the values ​​contained in the parameter
+-- iN(a,b,...) : a or b or ..
 -- When processing with or without using in
 -- Select people with job_Id : PU_CLERK or SH_CLERK or ST_CLERK
 use hr;
@@ -11,8 +13,6 @@ where
 	or job_id = 'SH_CLERK'
 	or job_id = 'ST_CLERK';
 -- When processing using in
--- Check if in contains one of all the values ​​contained in the parameter
--- iN(a,b,...) : a or b or ..
 use hr;
 select
 	*
