@@ -596,4 +596,4 @@ from
 group by
 	department_id,
 	job_id
-	with rollup 
+	with rollup
